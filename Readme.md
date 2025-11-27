@@ -4,6 +4,7 @@ This is a very simple Minecraft plugin which prevent unauthorized players
 to break crops by jumping on them. This plugin **does not** have any other purpose !
 
 Tested with Paper 1.16, 1.17, 1.18 and 1.19.
+Tested with Folia 1.21.8, confirmed working excellently
 It should work with Bukkit, Spigot in **1.16+**.
 
 *I made this plugin for a private server and I decided to share
