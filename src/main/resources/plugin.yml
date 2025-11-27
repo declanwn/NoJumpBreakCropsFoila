@@ -5,6 +5,8 @@ api-version: 1.16
 authors: [ SlowJulien ]
 description: Disable crop breaking if you don't have the permission.
 website: https://github.com/SlowJulien
+folia-supported: true
+
 commands:
   njbc:
     description: To config the NJBC plugin.
